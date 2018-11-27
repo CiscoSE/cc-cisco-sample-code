@@ -20,10 +20,10 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Environment Information:**
+ - OS: [e.g. Windows, macOS]
+ - Python Version: [e.g. 2.7.15, 3.7.1]
+ - Cookiecutter Version: [e.g. v0.1.1]
 
 **Additional context**
 Add any other context about the problem here.
