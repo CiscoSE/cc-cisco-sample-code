@@ -11,7 +11,27 @@ Every time you start a new project:  You've got to go hunt down the license file
 Wouldn't it be easier to just:
 
 ```bash
-$ cookiecutter cc-cisco-sample-code
+ $ cookiecutter cc-cisco-sample-code
+full_name []: Tony Stark
+email []: tstark@cisco.com
+current_year [2018]:
+project_name [Cisco Sample Code Project]: My Project
+project_slug [my-project]:
+project_short_description []: A flying suit made from Iron.
+ $ tree -a my-project/
+my-project/
+├── .github
+│   ├── ISSUE_TEMPLATE
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── PULL_REQUEST_TEMPLATE.md
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── HEADER
+├── LICENSE
+└── README.md
+
+2 directories, 8 files
 ```
 
 I thought so too.
