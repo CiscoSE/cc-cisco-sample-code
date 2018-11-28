@@ -32,7 +32,7 @@ Include a succinct summary of the features/capabilities of your project.
 
 ## Technologies & Frameworks Used
 
-Enumerate the technical components of your solution.  For those initiated with the technologies you are using, this enumeration should immediately set the context for your project.
+This is Cisco Sample Code!  What Cisco and third-party technologies are you working with?  Are you using a some coding framework or software stack?  A simple list will set the context for your project.
 
 **Cisco Products & Services:**
 
@@ -66,13 +66,6 @@ Smart people responsible for the creation and maintenance of this project:
 ## Credits
 
 Give proper credit.  Inspired by another project or article?  Was your work made easier by a tutorial?  Include links to the people, projects, and resources that were influential in the creation of this project.
-
-*For Example, the following were the inspirations for this README template:*
-
-- [Cookiecutter](https://github.com/audreyr/cookiecutter) by Audrey Roy Greenfeld ([@audreyr](https://github.com/audreyr))
-- [GitHub: About READMEs](https://help.github.com/articles/about-readmes/)
-- [A Beginners Guide to writing a Kickass README](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Kenneth Reitz ([@kennethreitz](https://github.com/kennethreitz))'s Projects - [Requests](https://github.com/requests/requests), [Responder](https://github.com/kennethreitz/responder), [Tablib](https://github.com/kennethreitz/tablib), etc.
 
 ## License
 
