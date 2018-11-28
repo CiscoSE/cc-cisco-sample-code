@@ -32,7 +32,7 @@ Include a succinct summary of the features/capabilities of your project.
 
 ## Technologies & Frameworks Used
 
-This is Cisco Sample Code!  What Cisco and third-party technologies are you working with?  Are you using a some coding framework or software stack?  A simple list will set the context for your project.
+This is Cisco Sample Code!  What Cisco and third-party technologies are you working with?  Are you using a coding framework or software stack?  A simple list will set the context for your project.
 
 **Cisco Products & Services:**
 
