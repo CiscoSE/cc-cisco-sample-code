@@ -67,7 +67,7 @@ If you have a working Python development environment, installation is simple:
 $ pip install cookiecutter
 ```
 
-If you need a bit more help than that, see the [Installation](https://cookiecutter.readthedocs.io/en/latest/installation.html) page of the Cookiecutter docs.
+If you need a bit more help than that, see [Installation](https://cookiecutter.readthedocs.io/en/latest/installation.html) in the Cookiecutter docs.
 
 
 ## Credits
