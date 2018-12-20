@@ -12,15 +12,14 @@ Wouldn't it be easier to just:
 
 ```bash
 $ cookiecutter cc-cisco-sample-code
-full_name []: Tony Stark
-email []: tstark@cisco.com
-current_year [2018]:
-project_name [Cisco Sample Code Project]: My Project
-project_slug [my-project]:
-project_short_description []: A flying suit made from Iron.
+full_name [John Doe]:
+email [jdoe@cisco.com]:
+project_name [Cisco Sample Code Project]:
+project_slug [cisco-sample-code-project]:
+project_short_description [Cisco Sample Code project essential docs]:
 
-$ tree -a my-project/
-my-project/
+$ tree -a cisco-sample-code-project/
+cisco-sample-code-project/
 ├── .github
 │   ├── ISSUE_TEMPLATE
 │   │   ├── bug_report.md
