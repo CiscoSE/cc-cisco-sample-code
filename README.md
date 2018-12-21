@@ -1,6 +1,6 @@
 # Cisco Sample Code | Cookiecutter Project Template
 
-*Create a Cisco Sample Code project from this language-agnostic project template.*
+*Language-agnostic Cookiecutter template for Cisco Sample Code projects.*
 
 Every project needs a start.  This [Cookiecutter](https://github.com/audreyr/cookiecutter) project template makes it easy for you to start a *Cisco Sample Code* project using the [Cisco Sample Code License](./LICENSE) with minimal (but engaging!) project documentation.
 
